@@ -5,5 +5,6 @@ setup(
     version= "0.0.1",
     description= "its a wineq packege",
     author="subh98",
-    packages=find_packages()
+    packages=find_packages(),
+    license="MIT",
 )

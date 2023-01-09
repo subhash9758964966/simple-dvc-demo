@@ -5,6 +5,7 @@ sklearn
 pandas
 pytest
 tox
+joblib
 flake8
 flask
 gunicorn
